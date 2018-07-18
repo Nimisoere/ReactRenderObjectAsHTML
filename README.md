@@ -1,2 +1,0 @@
-# ReactRenderObjectAsHTML
-Created with CodeSandbox

@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+.sub {
+  border: #eee thin solid;
+  box-shadow: 0 0 3px #eee;
+  padding: 10px;
+}
